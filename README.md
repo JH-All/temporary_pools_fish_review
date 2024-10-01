@@ -16,7 +16,7 @@ This is a repository with the data analysis codes of the developed work, aiming 
 
           - authors_per_year.xlsx      # Number of papers, average number of authors per paper and number of unique authors per year
           - subfamily.xlsx             # Subfamilies of all Rivulidae found in the review
-          - description_year_Rivulidae.xlsx         # Year of first description of these Rivulidae species
+          - description_year_Rivulidae.xlsx  # Year of first description of these Rivulidae species
   
           
 ## Abstract
